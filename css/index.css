@@ -20,11 +20,12 @@ body {
 .black-keys kbd {
     display: inline-block;
     height: 80px;
+    line-height: 80px;
     width: 30px;
     background-color: black;
     color: white;
     position: relative;
-    top: -364px;
+    top: -361px;
 }
 
 .container {
